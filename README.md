@@ -11,6 +11,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/snehasishdasz/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehasishdasz/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/snehasishdasz/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
 | ------- |
