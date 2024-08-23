@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/snehasishdasz/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/snehasishdasz/LeetCode/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/snehasishdasz/LeetCode/tree/master/0507-perfect-number) |
 ## Array
 |  |
@@ -34,4 +35,12 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehasishdasz/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/snehasishdasz/LeetCode/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/snehasishdasz/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/snehasishdasz/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
