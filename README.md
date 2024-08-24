@@ -7,6 +7,7 @@
 | [0189-rotate-array](https://github.com/snehasishdasz/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/snehasishdasz/LeetCode/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/snehasishdasz/LeetCode/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/snehasishdasz/LeetCode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -43,4 +44,13 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/snehasishdasz/LeetCode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/snehasishdasz/LeetCode/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/snehasishdasz/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/snehasishdasz/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
